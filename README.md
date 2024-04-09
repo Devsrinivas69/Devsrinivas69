@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Devsrinivas69
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on nothing 
-- 📫 How to reach me don't reach me 
+- 👀 I’m interested in : coding 
+- 🌱 I’m currently : learning java
+- 💞️ I’m looking to collaborate : nothing 
+- 📫 How to reach me : don't reach me 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like only straight people!
 
