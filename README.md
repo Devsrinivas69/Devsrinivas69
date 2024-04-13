@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate : nothing 
 - 📫 How to reach me : don't reach me 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like only straight people!
+- ⚡ Fun fact: thanos was right!
 
 <!---
 Devsrinivas69/Devsrinivas69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
