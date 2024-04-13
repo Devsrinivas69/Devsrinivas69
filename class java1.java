@@ -9,7 +9,7 @@ public class JAVA1 {
       s1.show();
        
       e1.eid = 30;
-      e1.ename = "messi";
+      e1.ename = "many";
       e1.esalary = 500000;
       e1.leave();
     } 
