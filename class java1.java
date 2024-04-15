@@ -37,6 +37,7 @@ public class JAVA1 {
     }
   }
    
+  /*
   output:
   Student  ID = 99
   Student  NAME = sri   
@@ -45,6 +46,6 @@ public class JAVA1 {
   Employee ID =34       
   Employee NAME =manny  
   Employee SALARY =50000
-   
+  */ 
    
    
