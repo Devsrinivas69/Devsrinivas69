@@ -1,0 +1,35 @@
+public class AddTwo {
+    public static int add(int a, int b) {
+        return a + b;
+    }
+
+    public static float add(float a, float b) {
+        return a + b;
+    }
+
+    public static int add() {
+        int a = 5; // Default value
+        int b = 10; // Default value
+        return a + b;
+    }
+
+    public static float addFloat() {
+        float a = 5.5f; // Default value
+        float b = 10.5f; // Default value
+        return a + b;
+    }
+
+    public static void main(String[] args) {
+        int sumIntegers = add(3, 4);
+        System.out.println("Sum of integers: " + sumIntegers);
+
+        float sumFloats = add(3.5f, 4.5f);
+        System.out.println("Sum of floats: " + sumFloats);
+
+        int sumDefaultIntegers = add();
+        System.out.println("Sum of default integers: " + sumDefaultIntegers);
+
+        float sumDefaultFloats = addFloat();
+        System.out.println("Sum of default floats: " + sumDefaultFloats);
+    }
+}
