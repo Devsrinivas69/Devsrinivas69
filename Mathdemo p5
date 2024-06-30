@@ -1,0 +1,42 @@
+class addsub
+ {
+ int n1,n2; 
+addsub(int x,int y) 
+{
+ n1=x; n2=y;
+ } 
+int add()
+ { 
+return(n1+n2); 
+} 
+int sub()
+ { 
+return(n1-n2);
+} 
+} 
+class muldiv extends addsub
+{ 
+muldiv(int x,int y) 
+{ 
+super(x,y); 
+} 
+int mul() 
+{ 
+return(n1*n2); 
+}
+int div()
+ {
+ return(n1/n2); 
+} 
+} 
+class mathdemo 
+{ 
+public static void main(String[] args)
+{
+muldiv md=new muldiv(20,10); 
+System.out.println("Addition= " +md.add()); 
+System.out.println("Substraction= " +md.sub()); 
+System.out.println("Multiplication= " +md.mul()); 
+System.out.println("Division= " +md.div()); 
+} 
+}
