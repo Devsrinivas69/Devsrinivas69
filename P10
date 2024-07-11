@@ -1,0 +1,16 @@
+public class ExceptionHandlingDemo {
+    public static void main(String[] args) {
+        try {
+            // Code that may throw an exception
+            int[] numbers = {1, 2, 3};
+            System.out.println("Accessing the fourth element: " + numbers[3]);
+        } catch (ArrayIndexOutOfBoundsException e) {
+            // Handling the exception
+            System.out.println("Exception caught: Array index is out of bounds!");
+        } finally {
+            // Code that will always execute
+            System.out.println("The 'finally' block is always executed.");
+        }
+        System.out.println("Program execution continues...");
+    }
+}
