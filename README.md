@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Devsrinivas69
 - 👀 I’m interested in : coding 
-- 🌱 I’m currently : learning java
-- 💞️ I’m looking to collaborate : nothing 
-- 📫 How to reach me : don't reach me 
+- 🌱 I’m currently : learning python 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: thanos was right!
+
 
 <!---
 Devsrinivas69/Devsrinivas69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
